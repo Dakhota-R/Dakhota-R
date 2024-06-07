@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dakhota-R
+- 👋 Hi, I’m @Diq_Yoda
 - 👀 I’m interested in ... -Software Developement
 - 🌱 I’m currently learning ... -C#, Python, MySQL
 - 💞️ I’m looking to collaborate on ... -Games, Mobile Apps, __ANYTHING__
