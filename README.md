@@ -2,5 +2,5 @@
 - 👀 I’m interested in ... -Software Developement
 - 🌱 I’m currently learning ... -C#, Python, MySQL
 - 💞️ I’m looking to collaborate on ... -Games, Mobile Apps, __ANYTHING__
-- 📫 How to reach me ... Email: DakhotaRodgers@gmail.com, Twitter: @Deek_Clearly
+- 📫 How to reach me ... Email: karn.equals.win@gmail.com, Twitter: @Deek_Clearly
 - ⚡ Fun fact: ... You actually aren't supposed to eat hotdogs without cooking them, but I know you do.
